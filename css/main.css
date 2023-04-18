@@ -670,6 +670,11 @@ a {
 
 @media (max-width: 600px) {
 
+    /* .nav-content {
+        max-width: 600px;
+        background: red;
+    } */
+
     .footer .left-footer {
         padding-left: 120px;
         justify-content: center;
