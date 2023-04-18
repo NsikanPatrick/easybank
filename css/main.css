@@ -686,11 +686,12 @@ a {
     }
 
     .hero-section {
-        background-size: 15%;
+        background-size: 5%;
     }
 
     .hero-content {
-        /* padding-left: 20px; */
+        /* padding: 0; */
+        padding-left: -10px;
         margin-bottom: 100px;
         text-align: center;
     }
