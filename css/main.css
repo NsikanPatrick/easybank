@@ -685,9 +685,24 @@ a {
         display: none;
     }
 
+    .hero-section {
+        background-size: 15%;
+    }
+
     .hero-content {
         /* padding-left: 20px; */
         margin-bottom: 100px;
         text-align: center;
+    }
+
+    .hero-content h5 {
+        font-size: 30px;
+        line-height: 50px;
+        letter-spacing: 3px;
+    }
+
+    .hero-content p {
+        line-height: 30px;
+        font-size: 15px;
     }
 }
