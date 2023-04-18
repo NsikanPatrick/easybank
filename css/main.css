@@ -692,7 +692,7 @@ a {
     .hero-content {
         /* padding-left: 20px; */
         padding: 0px;
-        margin: -130px 20px 100px 20px;
+        margin: -140px 20px 100px 20px;
         /* margin-bottom: 100px; */
         text-align: center;
     }
@@ -701,10 +701,5 @@ a {
         font-size: 35px;
         line-height: 50px;
         letter-spacing: 4px;
-    }
-
-    .hero-content p {
-        line-height: 30px;
-        font-size: 15px;
     }
 }
