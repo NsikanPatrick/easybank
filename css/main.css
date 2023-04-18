@@ -685,13 +685,13 @@ a {
         display: none;
     }
 
-    .hero-section {
+    /* .hero-section {
         background-size: 5%;
-    }
+    } */
 
     .hero-content {
         /* padding: 0; */
-        padding-left: -10px;
+        padding: 0px;
         margin-bottom: 100px;
         text-align: center;
     }
