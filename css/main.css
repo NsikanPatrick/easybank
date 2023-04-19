@@ -681,13 +681,14 @@ a {
     }
 
     .footer .left-footer {
-        padding-left: 120px;
+        /* padding-left: 120px; */
+        padding-left: 100px;
         justify-content: center;
     }
 
     .footer .left-footer .left-footer-item {
         /* margin-right: 130px; */
-        margin-right: 120px;
+        /* margin-right: 120px; */
     }
 
     .cta.nav-cta {
