@@ -677,12 +677,12 @@ a {
 
     .footer {
         /* padding: 140px 100px; */
-        padding: 140px 0px;
+        padding: 100px 0px;
     }
 
     .footer .left-footer {
         /* padding-left: 120px; */
-        padding-left: 100px;
+        padding-left: 20px;
         justify-content: center;
     }
 
