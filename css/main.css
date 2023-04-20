@@ -669,28 +669,7 @@ a {
 }
 
 @media (max-width: 600px) {
-
-    /* .nav-content {
-        max-width: 600px;
-        background: red;
-    } */
-
-    .footer {
-        /* padding: 140px 100px; */
-        padding: 120px 0px;
-    }
-
-    .footer .left-footer {
-        /* padding-left: 120px; */
-        padding-left: 80px;
-        justify-content: center;
-    }
-
-    .footer .left-footer .left-footer-item {
-        /* margin-right: 130px; */
-        /* margin-right: 120px; */
-    }
-
+    /* Hero section */
     .cta.nav-cta {
         display: none;
     }
@@ -707,5 +686,34 @@ a {
         font-size: 35px;
         line-height: 50px;
         letter-spacing: 4px;
+    }
+
+    /* Features section */
+    .features-section {
+        padding: 120px 15px 50px 15px;
+    }
+
+    .feature-items {
+        padding: 0 10px 0 10px;
+    }
+
+    .feature {
+        padding: 0 10px;
+        text-align: center;
+    }
+
+    /* Footer section */
+    .footer {
+        padding: 120px 0px;
+    }
+
+    .footer .left-footer {
+        /* padding-left: 120px; */
+        padding-left: 80px;
+        justify-content: center;
+    }
+
+    .footer .left-footer .left-footer-item {
+        /* margin-right: 130px; */
     }
 }
