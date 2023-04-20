@@ -368,6 +368,12 @@ a {
 /* Media queries */
 
 @media (min-width: 869px) and (max-width: 1224px) {
+    .hero {
+        display: flex;
+        flex-direction: column;
+        margin-top: 280px;
+    }
+
     .hero img {
         width: 100%;
         height: auto;
@@ -403,7 +409,6 @@ a {
         flex-direction: column;
         max-width: 50%;
         padding: 60px 30px 20px 10px;
-        ;
         text-align: center;
     }
 
