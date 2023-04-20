@@ -260,7 +260,7 @@ a {
 
 .article p {
     text-align: left;
-    font-size: 14px;
+    font-size: 15px;
     margin-top: 30px;
     color: hsl(233, 8%, 62%);
 }
@@ -700,6 +700,26 @@ a {
     .feature {
         padding: 0 10px;
         text-align: center;
+    }
+
+    /* Latest articles section */
+    .articles-section {
+        padding: 120px 40px 50px 40px;
+    }
+    
+    .articles-section h1.articles-title {
+        display: flex;
+        justify-content: center;
+        text-align: center;
+    }
+    
+    .article {
+        padding: 0px;
+        text-align: center;
+    }
+
+    .article p.text-justify {
+        font-size: 17px;
     }
 
     /* Footer section */
