@@ -141,7 +141,7 @@ a {
 }
 
 .hero-content h5 {
-    font-size: 37px;
+    font-size: 45px;
     line-height: 50px;
     letter-spacing: 4px;
     margin-bottom: 20px;
@@ -177,7 +177,7 @@ a {
     text-align: center;
     margin-top: 290px;
     margin-bottom: 70px;
-    font-size: 18px;
+    font-size: 17px;
     line-height: 27px;
 }
 
@@ -683,8 +683,8 @@ a {
     }
 
     .hero-content h5 {
-        font-size: 35px;
-        line-height: 50px;
+        font-size: 45px;
+        line-height: 57px;
         letter-spacing: 4px;
     }
 
